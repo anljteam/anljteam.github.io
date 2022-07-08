@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>陈冉 | 安立佳团队</title>
-    <link>anljteam.github.io/author/%E9%99%88%E5%86%89/</link>
-      <atom:link href="anljteam.github.io/author/%E9%99%88%E5%86%89/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://anljteam.github.io/author/%E9%99%88%E5%86%89/</link>
+      <atom:link href="https://anljteam.github.io/author/%E9%99%88%E5%86%89/index.xml" rel="self" type="application/rss+xml" />
     <description>陈冉</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language>
     <image>
-      <url>/anljteam.github.io/author/%E9%99%88%E5%86%89/avatar_hu7be064e40e416f6b2b41a77d557eb3be_26353_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://anljteam.github.io/author/%E9%99%88%E5%86%89/avatar_hu7be064e40e416f6b2b41a77d557eb3be_26353_270x270_fill_q75_lanczos_center.jpg</url>
       <title>陈冉</title>
-      <link>anljteam.github.io/author/%E9%99%88%E5%86%89/</link>
+      <link>https://anljteam.github.io/author/%E9%99%88%E5%86%89/</link>
     </image>
     
   </channel>

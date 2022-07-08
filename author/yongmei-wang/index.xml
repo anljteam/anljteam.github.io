@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yongmei Wang | 安立佳团队</title>
-    <link>anljteam.github.io/author/yongmei-wang/</link>
-      <atom:link href="anljteam.github.io/author/yongmei-wang/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://anljteam.github.io/author/yongmei-wang/</link>
+      <atom:link href="https://anljteam.github.io/author/yongmei-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Yongmei Wang</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Thu, 01 Jul 2010 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/anljteam.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://anljteam.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Yongmei Wang</title>
-      <link>anljteam.github.io/author/yongmei-wang/</link>
+      <link>https://anljteam.github.io/author/yongmei-wang/</link>
     </image>
     
     <item>
       <title>Transport of Star-Branched Polymers in Nanoscale Pipe Channels Simulated with Dissipative Particle Dynamics Simulation</title>
-      <link>anljteam.github.io/publication/wos-000279573600055/</link>
+      <link>https://anljteam.github.io/publication/wos-000279573600055/</link>
       <pubDate>Thu, 01 Jul 2010 00:00:00 +0000</pubDate>
-      <guid>anljteam.github.io/publication/wos-000279573600055/</guid>
+      <guid>https://anljteam.github.io/publication/wos-000279573600055/</guid>
       <description></description>
     </item>
     

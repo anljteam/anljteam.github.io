@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yanyan Zhang | 安立佳团队</title>
-    <link>anljteam.github.io/author/yanyan-zhang/</link>
-      <atom:link href="anljteam.github.io/author/yanyan-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://anljteam.github.io/author/yanyan-zhang/</link>
+      <atom:link href="https://anljteam.github.io/author/yanyan-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Yanyan Zhang</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Fri, 01 Nov 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/anljteam.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://anljteam.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Yanyan Zhang</title>
-      <link>anljteam.github.io/author/yanyan-zhang/</link>
+      <link>https://anljteam.github.io/author/yanyan-zhang/</link>
     </image>
     
     <item>
       <title>Finite element simulation of slow release of drugs using hydrogels as carriers with various drug concentration distributions</title>
-      <link>anljteam.github.io/publication/wos-000336961900144/</link>
+      <link>https://anljteam.github.io/publication/wos-000336961900144/</link>
       <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
-      <guid>anljteam.github.io/publication/wos-000336961900144/</guid>
+      <guid>https://anljteam.github.io/publication/wos-000336961900144/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Numerical simulation of enzyme-controlled drug release using hydrogels as carriers</title>
-      <link>anljteam.github.io/publication/wos-000336961900154/</link>
+      <link>https://anljteam.github.io/publication/wos-000336961900154/</link>
       <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
-      <guid>anljteam.github.io/publication/wos-000336961900154/</guid>
+      <guid>https://anljteam.github.io/publication/wos-000336961900154/</guid>
       <description></description>
     </item>
     

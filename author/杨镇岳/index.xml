@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>杨镇岳 | 安立佳团队</title>
-    <link>anljteam.github.io/author/%E6%9D%A8%E9%95%87%E5%B2%B3/</link>
-      <atom:link href="anljteam.github.io/author/%E6%9D%A8%E9%95%87%E5%B2%B3/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://anljteam.github.io/author/%E6%9D%A8%E9%95%87%E5%B2%B3/</link>
+      <atom:link href="https://anljteam.github.io/author/%E6%9D%A8%E9%95%87%E5%B2%B3/index.xml" rel="self" type="application/rss+xml" />
     <description>杨镇岳</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language>
     <image>
-      <url>/anljteam.github.io/author/%E6%9D%A8%E9%95%87%E5%B2%B3/avatar_hu5710c61163863d8fac7ffe9491c04a1e_15919_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://anljteam.github.io/author/%E6%9D%A8%E9%95%87%E5%B2%B3/avatar_hu5710c61163863d8fac7ffe9491c04a1e_15919_270x270_fill_q75_lanczos_center.jpg</url>
       <title>杨镇岳</title>
-      <link>anljteam.github.io/author/%E6%9D%A8%E9%95%87%E5%B2%B3/</link>
+      <link>https://anljteam.github.io/author/%E6%9D%A8%E9%95%87%E5%B2%B3/</link>
     </image>
     
   </channel>

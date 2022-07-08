@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>李尚伟 | 安立佳团队</title>
-    <link>anljteam.github.io/author/%E6%9D%8E%E5%B0%9A%E4%BC%9F/</link>
-      <atom:link href="anljteam.github.io/author/%E6%9D%8E%E5%B0%9A%E4%BC%9F/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://anljteam.github.io/author/%E6%9D%8E%E5%B0%9A%E4%BC%9F/</link>
+      <atom:link href="https://anljteam.github.io/author/%E6%9D%8E%E5%B0%9A%E4%BC%9F/index.xml" rel="self" type="application/rss+xml" />
     <description>李尚伟</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language>
     <image>
-      <url>/anljteam.github.io/author/%E6%9D%8E%E5%B0%9A%E4%BC%9F/avatar_hub796cccc6cc3cbfa6cf388a9ee1317f9_16287_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://anljteam.github.io/author/%E6%9D%8E%E5%B0%9A%E4%BC%9F/avatar_hub796cccc6cc3cbfa6cf388a9ee1317f9_16287_270x270_fill_q75_lanczos_center.jpg</url>
       <title>李尚伟</title>
-      <link>anljteam.github.io/author/%E6%9D%8E%E5%B0%9A%E4%BC%9F/</link>
+      <link>https://anljteam.github.io/author/%E6%9D%8E%E5%B0%9A%E4%BC%9F/</link>
     </image>
     
   </channel>
