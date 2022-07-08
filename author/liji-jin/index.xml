@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Liji Jin | 安立佳团队</title>
+    <link>anljteam.github.io/author/liji-jin/</link>
+      <atom:link href="anljteam.github.io/author/liji-jin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Liji Jin</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Wed, 01 Oct 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/anljteam.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Liji Jin</title>
+      <link>anljteam.github.io/author/liji-jin/</link>
+    </image>
+    
+    <item>
+      <title>Isolation of genomic sequences flanking the fibroin gene of Antheraea pernyi by using thermal asymmetric interlaced PCR</title>
+      <link>anljteam.github.io/publication/wos-000208979401042/</link>
+      <pubDate>Wed, 01 Oct 2008 00:00:00 +0000</pubDate>
+      <guid>anljteam.github.io/publication/wos-000208979401042/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genotyping of Trichophyton rubrum by analysis of ribosomal-DNA intergenic spacer regions</title>
+      <link>anljteam.github.io/publication/wos-000247472400002/</link>
+      <pubDate>Sun, 01 Jul 2007 00:00:00 +0000</pubDate>
+      <guid>anljteam.github.io/publication/wos-000247472400002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genotyping of Sporothrix schenckii by analysis of ribosomal DNA regions</title>
+      <link>anljteam.github.io/publication/wos-000238310200007/</link>
+      <pubDate>Sat, 01 Jul 2006 00:00:00 +0000</pubDate>
+      <guid>anljteam.github.io/publication/wos-000238310200007/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiaochun Zhou | 安立佳团队</title>
+    <link>anljteam.github.io/author/xiaochun-zhou/</link>
+      <atom:link href="anljteam.github.io/author/xiaochun-zhou/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiaochun Zhou</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Tue, 01 Aug 2006 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/anljteam.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Xiaochun Zhou</title>
+      <link>anljteam.github.io/author/xiaochun-zhou/</link>
+    </image>
+    
+    <item>
+      <title>A new flow field and its two-dimension model for polymer electrolyte membrane fuel cells (PEMFCs)</title>
+      <link>anljteam.github.io/publication/wos-000240842800060/</link>
+      <pubDate>Tue, 01 Aug 2006 00:00:00 +0000</pubDate>
+      <guid>anljteam.github.io/publication/wos-000240842800060/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

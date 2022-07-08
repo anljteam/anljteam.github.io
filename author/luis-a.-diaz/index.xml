@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Luis A. Diaz | 安立佳团队</title>
+    <link>anljteam.github.io/author/luis-a.-diaz/</link>
+      <atom:link href="anljteam.github.io/author/luis-a.-diaz/index.xml" rel="self" type="application/rss+xml" />
+    <description>Luis A. Diaz</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/anljteam.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Luis A. Diaz</title>
+      <link>anljteam.github.io/author/luis-a.-diaz/</link>
+    </image>
+    
+    <item>
+      <title>Eosinophils Mediate Tissue Injury in the Autoimmune Skin Disease Bullous Pemphigoid</title>
+      <link>anljteam.github.io/publication/wos-000430533700020/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>anljteam.github.io/publication/wos-000430533700020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neutrophil elastase cleaves the murine hemidesmosomal protein BP180/type XVII collagen and generates degradation products that modulate experimental bullous pemphigoid</title>
+      <link>anljteam.github.io/publication/wos-000300262800004/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>anljteam.github.io/publication/wos-000300262800004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dual Targets for Mouse Mast Cell Protease-4 in Mediating Tissue Damage in Experimental Bullous Pemphigoid</title>
+      <link>anljteam.github.io/publication/wos-000296542400036/</link>
+      <pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>anljteam.github.io/publication/wos-000296542400036/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

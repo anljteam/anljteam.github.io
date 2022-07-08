@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wei Jiang | 安立佳团队</title>
+    <link>anljteam.github.io/author/wei-jiang/</link>
+      <atom:link href="anljteam.github.io/author/wei-jiang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wei Jiang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Mon, 01 Jan 2007 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/anljteam.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Wei Jiang</title>
+      <link>anljteam.github.io/author/wei-jiang/</link>
+    </image>
+    
+    <item>
+      <title>Computer simulation of the damage evolution of fiber-reinforced polypropylene-matrix composites with matrix defects</title>
+      <link>anljteam.github.io/publication/wos-000242060800010/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>anljteam.github.io/publication/wos-000242060800010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonisothermal crystallization behavior of glass-bead-filled polypropylene</title>
+      <link>anljteam.github.io/publication/wos-000240923900002/</link>
+      <pubDate>Wed, 01 Nov 2006 00:00:00 +0000</pubDate>
+      <guid>anljteam.github.io/publication/wos-000240923900002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stress transfer and damage evolution simulations of fiber-reinforced polymer-matrix composites</title>
+      <link>anljteam.github.io/publication/wos-000241151500023/</link>
+      <pubDate>Thu, 01 Jun 2006 00:00:00 +0000</pubDate>
+      <guid>anljteam.github.io/publication/wos-000241151500023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical simulation of mesoscopic mechanical behaviors of gradual multi-fiber-reinforced polymer matrix composites</title>
+      <link>anljteam.github.io/publication/wos-000238017500009/</link>
+      <pubDate>Mon, 01 May 2006 00:00:00 +0000</pubDate>
+      <guid>anljteam.github.io/publication/wos-000238017500009/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

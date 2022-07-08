@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shi Tongfei | 安立佳团队</title>
+    <link>anljteam.github.io/author/shi-tongfei/</link>
+      <atom:link href="anljteam.github.io/author/shi-tongfei/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shi Tongfei</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Fri, 01 Nov 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/anljteam.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Shi Tongfei</title>
+      <link>anljteam.github.io/author/shi-tongfei/</link>
+    </image>
+    
+    <item>
+      <title>Finite Element Analysis on Multi-field Coupling of Cross-flow Nanofiltration of Polymeric Membrane</title>
+      <link>anljteam.github.io/publication/wos-000328574000008/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>anljteam.github.io/publication/wos-000328574000008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>THEORETICAL STUDY OF ANOMALOUS INTRINSIC VISCOSITY FOR DENDRIMERS</title>
+      <link>anljteam.github.io/publication/wos-000295698100017/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>anljteam.github.io/publication/wos-000295698100017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesis of Arm-6 polystyrene by atom transfer radical polymerization</title>
+      <link>anljteam.github.io/publication/wos-000247450800015/</link>
+      <pubDate>Fri, 01 Jun 2007 00:00:00 +0000</pubDate>
+      <guid>anljteam.github.io/publication/wos-000247450800015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

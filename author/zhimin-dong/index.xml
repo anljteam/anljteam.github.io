@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhimin Dong | 安立佳团队</title>
+    <link>anljteam.github.io/author/zhimin-dong/</link>
+      <atom:link href="anljteam.github.io/author/zhimin-dong/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhimin Dong</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Fri, 01 Jun 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/anljteam.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Zhimin Dong</title>
+      <link>anljteam.github.io/author/zhimin-dong/</link>
+    </image>
+    
+    <item>
+      <title>Expression of mitochondrial malate dehydrogenase in improves phosphate solubilization</title>
+      <link>anljteam.github.io/publication/wos-000304140600019/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>anljteam.github.io/publication/wos-000304140600019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved phosphorus acquisition by tobacco through transgenic expression of mitochondrial malate dehydrogenase from Penicillium oxalicum</title>
+      <link>anljteam.github.io/publication/wos-000299124700005/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>anljteam.github.io/publication/wos-000299124700005/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

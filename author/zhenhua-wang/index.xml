@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhenhua Wang | 安立佳团队</title>
+    <link>anljteam.github.io/author/zhenhua-wang/</link>
+      <atom:link href="anljteam.github.io/author/zhenhua-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhenhua Wang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/anljteam.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Zhenhua Wang</title>
+      <link>anljteam.github.io/author/zhenhua-wang/</link>
+    </image>
+    
+    <item>
+      <title>Size and Dynamics of a Tracer Ring Polymer Embedded in a Linear Polymer Chain Melt Matrix</title>
+      <link>anljteam.github.io/publication/wos-000772188000005/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>anljteam.github.io/publication/wos-000772188000005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polymer Translocation Time</title>
+      <link>anljteam.github.io/publication/wos-000751672700007/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>anljteam.github.io/publication/wos-000751672700007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mechanism of Nonmonotonic Increase in Polymer Size: Comparison between Linear and Ring Chains at High Shear Rates</title>
+      <link>anljteam.github.io/publication/wos-000497261600016/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>anljteam.github.io/publication/wos-000497261600016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Point-to-set dynamic length scale in binary Lennard-Jones glass-formers</title>
+      <link>anljteam.github.io/publication/wos-000411462100026/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>anljteam.github.io/publication/wos-000411462100026/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yushi Luan | 安立佳团队</title>
+    <link>anljteam.github.io/author/yushi-luan/</link>
+      <atom:link href="anljteam.github.io/author/yushi-luan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yushi Luan</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Wed, 01 Oct 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/anljteam.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Yushi Luan</title>
+      <link>anljteam.github.io/author/yushi-luan/</link>
+    </image>
+    
+    <item>
+      <title>Analysis on nutrients of sweetpotato leaf as functional food</title>
+      <link>anljteam.github.io/publication/wos-000208979403123/</link>
+      <pubDate>Wed, 01 Oct 2008 00:00:00 +0000</pubDate>
+      <guid>anljteam.github.io/publication/wos-000208979403123/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arbuscular mycorrhizae formed by Penicillium pinophilum improve the growth, nutrient uptake and photosynthesis of strawberry with two inoculum-types</title>
+      <link>anljteam.github.io/publication/wos-000256909200026/</link>
+      <pubDate>Fri, 01 Aug 2008 00:00:00 +0000</pubDate>
+      <guid>anljteam.github.io/publication/wos-000256909200026/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

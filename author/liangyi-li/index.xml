@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Liangyi Li | 安立佳团队</title>
+    <link>anljteam.github.io/author/liangyi-li/</link>
+      <atom:link href="anljteam.github.io/author/liangyi-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Liangyi Li</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Wed, 01 Feb 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/anljteam.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Liangyi Li</title>
+      <link>anljteam.github.io/author/liangyi-li/</link>
+    </image>
+    
+    <item>
+      <title>Effects of Concentration and Ionization Degree of Anchoring Cationic Polymers on the Lateral Heterogeneity of Anionic Lipid Monolayers</title>
+      <link>anljteam.github.io/publication/wos-000393928000009/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>anljteam.github.io/publication/wos-000393928000009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of Chain Rigidity on the Adsorption of a Polyelectrolyte Chain on Mixed Lipid Monolayer: A Monte Carlo Study</title>
+      <link>anljteam.github.io/publication/wos-000354911300012/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      <guid>anljteam.github.io/publication/wos-000354911300012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

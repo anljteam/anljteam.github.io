@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aihong Zhang | 安立佳团队</title>
+    <link>anljteam.github.io/author/aihong-zhang/</link>
+      <atom:link href="anljteam.github.io/author/aihong-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Aihong Zhang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Tue, 01 Sep 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/anljteam.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Aihong Zhang</title>
+      <link>anljteam.github.io/author/aihong-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Effects of catalpol on mitochondrial function and working memory in mice after lipopolysaccharide-induced acute systemic inflammation</title>
+      <link>anljteam.github.io/publication/wos-000269480500006/</link>
+      <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
+      <guid>anljteam.github.io/publication/wos-000269480500006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Catalpol attenuates nitric oxide increase via ERK signaling pathways induced by rotenone in mesencephalic neurons</title>
+      <link>anljteam.github.io/publication/wos-000264697100015/</link>
+      <pubDate>Sun, 01 Mar 2009 00:00:00 +0000</pubDate>
+      <guid>anljteam.github.io/publication/wos-000264697100015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Further pharmacological evidence of the neuroprotective effect of catalpol from Rehmannia glutinosa</title>
+      <link>anljteam.github.io/publication/wos-000258561700012/</link>
+      <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>anljteam.github.io/publication/wos-000258561700012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

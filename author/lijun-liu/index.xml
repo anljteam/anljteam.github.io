@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lijun Liu | 安立佳团队</title>
+    <link>anljteam.github.io/author/lijun-liu/</link>
+      <atom:link href="anljteam.github.io/author/lijun-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lijun Liu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/anljteam.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Lijun Liu</title>
+      <link>anljteam.github.io/author/lijun-liu/</link>
+    </image>
+    
+    <item>
+      <title>Role of Functionality in Cross-Stream Migration, Structures, and Dynamics of Star Polymers in Poiseuille Flow</title>
+      <link>anljteam.github.io/publication/wos-000595527800030/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>anljteam.github.io/publication/wos-000595527800030/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Individual circular polyelectrolytes under shear flow</title>
+      <link>anljteam.github.io/publication/wos-000449103200018/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>anljteam.github.io/publication/wos-000449103200018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conformation and Dynamics of Individual Star in Shear Flow and Comparison with Linear and Ring Polymers</title>
+      <link>anljteam.github.io/publication/wos-000394410200055/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>anljteam.github.io/publication/wos-000394410200055/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conformations and dynamics of single flexible ring polymers in simple shear flow</title>
+      <link>anljteam.github.io/publication/wos-000355241400013/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      <guid>anljteam.github.io/publication/wos-000355241400013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of excluded volume and hydrodynamic interaction on the deformation, orientation and motion of ring polymers in shear flow</title>
+      <link>anljteam.github.io/publication/wos-000356806200010/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>anljteam.github.io/publication/wos-000356806200010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of Chain Stiffness on Conformational and Dynamical Properties of Individual Ring Polymers in Shear Flow</title>
+      <link>anljteam.github.io/publication/wos-000330145700042/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>anljteam.github.io/publication/wos-000330145700042/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

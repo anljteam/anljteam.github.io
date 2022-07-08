@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiliang Chen | 安立佳团队</title>
+    <link>anljteam.github.io/author/xiliang-chen/</link>
+      <atom:link href="anljteam.github.io/author/xiliang-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiliang Chen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Wed, 01 Sep 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/anljteam.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Xiliang Chen</title>
+      <link>anljteam.github.io/author/xiliang-chen/</link>
+    </image>
+    
+    <item>
+      <title>A multiphasic model for the volume change of polyelectrolyte hydrogels</title>
+      <link>anljteam.github.io/publication/wos-000282047500039/</link>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
+      <guid>anljteam.github.io/publication/wos-000282047500039/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance inhomogeneity of gelatin during gelation process</title>
+      <link>anljteam.github.io/publication/wos-000272284100038/</link>
+      <pubDate>Sun, 01 Nov 2009 00:00:00 +0000</pubDate>
+      <guid>anljteam.github.io/publication/wos-000272284100038/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical simulation of coil-helix transition processes of gelatin</title>
+      <link>anljteam.github.io/publication/wos-000265433700024/</link>
+      <pubDate>Wed, 01 Apr 2009 00:00:00 +0000</pubDate>
+      <guid>anljteam.github.io/publication/wos-000265433700024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

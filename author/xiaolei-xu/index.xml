@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiaolei Xu | 安立佳团队</title>
+    <link>anljteam.github.io/author/xiaolei-xu/</link>
+      <atom:link href="anljteam.github.io/author/xiaolei-xu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiaolei Xu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/anljteam.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Xiaolei Xu</title>
+      <link>anljteam.github.io/author/xiaolei-xu/</link>
+    </image>
+    
+    <item>
+      <title>Molecular Dynamics Simulation of Polymer/rod Nanocomposite</title>
+      <link>anljteam.github.io/publication/wos-000627118700026/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>anljteam.github.io/publication/wos-000627118700026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probing relationship between structure and viscosity of unentangled polymers in steady shear flow</title>
+      <link>anljteam.github.io/publication/wos-000417935600019/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>anljteam.github.io/publication/wos-000417935600019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation studies on architecture dependence of unentangled polymer melts</title>
+      <link>anljteam.github.io/publication/wos-000350547500032/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+      <guid>anljteam.github.io/publication/wos-000350547500032/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shear thinning behavior of linear polymer melts under shear flow via nonequilibrium molecular dynamics</title>
+      <link>anljteam.github.io/publication/wos-000336048000047/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
+      <guid>anljteam.github.io/publication/wos-000336048000047/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of Chain Stiffness on Conformational and Dynamical Properties of Individual Ring Polymers in Shear Flow</title>
+      <link>anljteam.github.io/publication/wos-000330145700042/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>anljteam.github.io/publication/wos-000330145700042/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
